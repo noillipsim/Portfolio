@@ -45,8 +45,6 @@ def order_more():
 
 #Give opportunity for repeat orders
 order_more()
-print(drinks)
-print(total)
 
 #Give order and total cost
 print("\nHere is what I have:")
